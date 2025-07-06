@@ -200,7 +200,7 @@ plt.ylabel('Actual Class')
 
 st.pyplot(plt, use_container_width=False)
 
-st.image('C:/Users/pc/Desktop/data science mülakat/classification_report.png', 
+st.image('classification_report.png', 
          caption='Sınıflandırma Raporu', 
          use_container_width =True)
 
